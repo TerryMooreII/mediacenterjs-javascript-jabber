@@ -1,0 +1,25 @@
+{
+  "name": "mediacenterjs-javascript-jabber",
+  "version": "0.1.0",
+  "description": "MediacenterJS plugin for the Javascript Jabber podcast",
+  "keywords": [
+    "mediacenterjs",
+    "javascript jabber",
+    "podcast"
+  ],
+  "homepage": "https://github.com/TerryMooreII/mediacenterjs-javscript-jabber",
+  "bugs": "https://github.com/TerryMooreII/mediacenterjs-javscript-jabber/issues",
+  "author": "Terry Moore",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TerryMooreII/mediacenterjs-javscript-jabber.git"
+  },
+  "peerDependencies": {
+    "mediacenterjs": "*"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
