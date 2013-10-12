@@ -10,7 +10,7 @@ li{
 	box-shadow: 0 1px 5px #a2a2a2;
 	color:#fff;
 }
-#header1{height:10px; overflow:hidden; background:#fff;}
+#header{height:100px; overflow:hidden; background:#fff;}
 #header h1{margin: 14px 0 0 60px;}
 
 #wrapper h1{ color:#000; font-size:11px; margin:0; padding:0;}
